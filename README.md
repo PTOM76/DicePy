@@ -1,1 +1,1 @@
-"# PythonWebTest" 
+# Pythonを使ってサイコロを表示するプログラムです。
